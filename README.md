@@ -1,5 +1,5 @@
 # Bailo_Watches
-## By David Remo
+#### By David Remo
 
 # Technologies Used
 HTML CSS JAVASCRIPT
